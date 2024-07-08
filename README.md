@@ -28,6 +28,20 @@ In this project, I built a simple app that fetches and displays data from the Ap
 - Kotlin-Coroutines-Flow: For asynchronous tasks, reactive programming
 - Retrofit: REST Api client & HTTP requests
 
+## Run the project in Android Studio
+
+To run the projet in Android Studio, begin by checking out the master branch, and then open the root directory in Android Studio. 
+
+Clone the repository:
+
+```
+git clone https://github.com/jovelcasais/KotlinLibraryUtilisation.git
+```
+
+This step checks out the master branch.
+
+- https://github.com/jovelcasais/KotlinLibraryUtilisation.git
+
 ## Open Source Api Details
 
 API Endpoints 
