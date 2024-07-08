@@ -7,7 +7,6 @@ In this project, I built a simple app that fetches and displays data from the Ap
 - Retrofit
 - OkHttp
 - Gson
-- Gson
 - Dagger Hilt
 - Kotlin Flow
 - Sealed Classes
