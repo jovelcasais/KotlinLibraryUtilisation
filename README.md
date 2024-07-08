@@ -1,6 +1,6 @@
 # Sample App Project to Call Opensource API
 
-In this project, we'll build a simple app that fetches and displays data from the Api. Storing the data using Room library.
+In this project, I built a simple app that fetches and displays data from the Api. Storing the data using Room library and updating the list using Courotines State Flow.
 
 ## Library Used
 
@@ -17,6 +17,16 @@ In this project, we'll build a simple app that fetches and displays data from th
 
 - MVVM
 - SOLID
+
+## Features
+
+- Implementation Of Clean Architecture
+- Jetpack Compose
+- Data Binding
+- Hilt: Dependency Injection framework
+- ViewModel: MVVM pattern component
+- Kotlin-Coroutines-Flow: For asynchronous tasks, reactive programming
+- Retrofit: REST Api client & HTTP requests
 
 ## Open Source Api Details
 
